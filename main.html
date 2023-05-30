@@ -36,6 +36,7 @@
       <a-entity camera look-controls position="0 0 0"></a-entity>
         
     </a-scene>
+    <!-- Script para quando identificar o marcador que apresenta o vídeo reproduza-o, caso o marcador desapareça, o video pausa sua reprodução -->
     <script> 
       document.querySelectorAll('#video-entity').forEach(elm =>{
         elm.addEventListener('markerFound', function(){
