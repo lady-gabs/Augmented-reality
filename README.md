@@ -12,11 +12,11 @@ Neste projeto busquei desenvolver um programa que utilizasse a câmera do comput
 Tendo isso em vista, na pasta :file_folder:**assets** está contido os marcadores (na pasta `markers`) e as mídias que serão exibidas na tela (pastas `video` e `image`). Na pasta 
 `markers` há as subpastas **patt** (que contém um marcador personalizado que criei em formato `.patt`) e **png** (que possui os marcadores em formato `.png` usados no projeto - estes arquivos servem para impressão em folha branca).
 
-## Tag's Aframe:
-`<a-scene>`:
-<br/>`<a-assets>`:
-<br/>`<a-entity>`:
-<br/>`<a-marker>`:
-<br/>`<a-image>`:
-<br/>`<a-cone>`:
-<br/>`<a-video>`:
+## Primitivas / Tag's Aframe:
+`<a-scene>`: cria a cena que consiste no objeto raiz global o qual contém todas as entidades;
+<br/>`<a-assets>`: preloading de conteúdos que serão usados no programa;
+<br/>`<a-entity>`: representa a entidade o qual possui espaço reservado no sistema para conectamos componentes a fim de fornecer aparência, comportamento e funcionalidade;
+<br/>`<a-marker>`: primitiva que procura uma imagem que tem um tipo de padrão estabelecido no código e direciona para o objeto que será exibido com tal padrão;
+<br/>`<a-image>`: exibe imagem em uma superfície plana ;
+<br/>`<a-cone>`: projeta a forma de um cone;
+<br/>`<a-video>`: exibe vídeo como uma textura em uma superfície plana.
