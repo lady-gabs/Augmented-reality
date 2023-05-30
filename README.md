@@ -11,3 +11,12 @@ Ela não precisa ser instalada, basta inclui-la na tag `<head>` do seu arquivo H
 Neste projeto busquei desenvolver um programa que utilizasse a câmera do computador/celular e que, por meio de marcadores, exibisse na tela o conteúdo de cada marcador.<br/>
 Tendo isso em vista, na pasta :file_folder:**assets** está contido os marcadores (na pasta `markers`) e as mídias que serão exibidas na tela (pastas `video` e `image`). Na pasta 
 `markers` há as subpastas **patt** (que contém um marcador personalizado que criei em formato `.patt`) e **png** (que possui os marcadores em formato `.png` usados no projeto - estes arquivos servem para impressão em folha branca).
+
+## Tag's Aframe:
+`<a-scene>`:
+<br/>`<a-assets>`:
+<br/>`<a-entity>`:
+<br/>`<a-marker>`:
+<br/>`<a-image>`:
+<br/>`<a-cone>`:
+<br/>`<a-video>`:
