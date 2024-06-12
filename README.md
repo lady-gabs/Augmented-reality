@@ -1,5 +1,8 @@
 # Augmented Reality (AR)
-Breve explicação sobre o algoritmo<br/><br/>
+Projeto realizado por: Caio de Assis Ribeiro, Diogo Paiva Pereira, Gabriella Alves de Oliveira, Lênin Machado Cruz Ribeiro<br/>
+Disciplina: Computação Gráfica - 2023<br/>
+Curso: Ciências da Computação<br/>
+Unesp - Rio Claro<br/><br/>
 ## Biblioteca Utilizada:
 
 Para a construção do programa utilizei a biblioteca [A-frame](https://aframe.io/) que é usada para aplicações de Realidade Aumentada (AR) e Realidade Virtual (VR). 
